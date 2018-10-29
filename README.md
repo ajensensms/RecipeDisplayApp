@@ -12,8 +12,7 @@ Annette Jensen
 ### Project Description:
 In this assignment I learned how to apply DOM and JQuery methods to code.
 
-### View Project Online:
-https://ajensensms.github.io/lesson7_jquery/
+
 
 ### Lessons Learned in the Assignment:
 1. In this assignment I learned how to manipulate the DOM
